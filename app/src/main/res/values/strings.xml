@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Vinayak Bus</string>
+    <string name="button">Button</string>
+    <string name="Hindi" translatable="false">hindi</string>
+    <string name="Gujrati" translatable="false">Gujrati</string>
+    <string name="English" translatable="false">English</string>
+</resources>
